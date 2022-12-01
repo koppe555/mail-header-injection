@@ -3,7 +3,7 @@
 
 
 ## 概要
-![](/img/20221130_メールヘッダインジェクション_2022-11-30-20-31-05.png)
+<img width="436" alt="image" src="https://user-images.githubusercontent.com/44897118/204989661-1b059278-2c02-4419-af9a-a0dd102ef07a.png">
 
 例えば、お問合せ用のフォームなどでメールを送信する機能があるとする。
 
@@ -25,7 +25,9 @@ https://cs.cybozu.co.jp/information/20131202up01.html
 
 
 **メールヘッダ一覧**
-![](/img/20221130_メールヘッダインジェクション_2022-11-30-20-41-40.png)
+
+<img width="435" alt="image" src="https://user-images.githubusercontent.com/44897118/204989707-e916284f-6a2c-4df6-aacf-66c784a7cf3d.png">
+
 https://atmarkit.itmedia.co.jp/fnetwork/rensai/netpro03/mail-header.html
 
 メールヘッダのTo, Cc, Bccなどに迷惑メール送信対象のアドレスを入れる。
